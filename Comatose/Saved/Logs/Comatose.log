@@ -14846,3 +14846,4 @@ ButtonDoor_BP_C.ReceiveBeginPlay
 [2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Blueprints/Light.Light
 [2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Assets/ButtonMaterial.ButtonMaterial
 [2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Black.Black
+[2021.01.31-10.58.54:072][172]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
