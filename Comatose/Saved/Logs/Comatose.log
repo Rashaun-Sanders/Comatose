@@ -14702,3 +14702,147 @@ ButtonDoor_BP_C.ReceiveBeginPlay
 [2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): Completed zipping project up
 [2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
 [2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2021.01.31-10.57.32:019][977]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.32:032][977]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Main_Menu_Widget.Main_Menu_Widget
+[2021.01.31-10.57.35:024][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.35:038][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Main_Menu_Widget" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Widgets/Main_Menu_Widget.uasset" SILENT=true
+[2021.01.31-10.57.35:051][196]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Main_Menu_Widget75F3DDF24A8D9EAE762AD8803116D19F.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Widgets/Main_Menu_Widget.uasset'
+[2021.01.31-10.57.35:069][196]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2021.01.31-10.57.35:069][196]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/Main_Menu_Widget.Main_Menu_Widget
+[2021.01.31-10.57.36:527][334]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.36:527][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.36:544][334]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.36:544][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.43:567][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.46:047][896]LogSlate: Window 'Message' being destroyed
+[2021.01.31-10.57.46:054][896]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/ButtonMaterial.ButtonMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.31-10.57.46:513][896]LogMaterial: Display: Missing cached shader map for material ButtonMaterial, compiling. 
+[2021.01.31-10.57.46:533][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.46:541][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.31-10.57.46:541][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.31-10.57.46:541][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.31-10.57.46:541][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.01.31-10.57.46:549][896]LogMaterial: Display: Missing cached shader map for material ButtonMaterial, compiling. 
+[2021.01.31-10.57.46:801][896]LogUObjectHash: Compacting FUObjectHashTables data took  12.53ms
+[2021.01.31-10.57.46:810][896]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-10.57.47:345][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.31-10.57.47:345][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.31-10.57.47:345][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.31-10.57.47:345][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.31-10.57.47:877][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.31-10.57.47:930][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.31-10.57.47:934][896]TextureStreamingBuild: Display: Compiling optional shaders took 1.129 seconds.
+[2021.01.31-10.57.48:076][896]LogUObjectHash: Compacting FUObjectHashTables data took  12.10ms
+[2021.01.31-10.57.48:116][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.48:468][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.31-10.57.48:842][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.31-10.57.50:849][896]LogSlate: Window 'Message' being destroyed
+[2021.01.31-10.57.50:854][896]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Blueprints/Light.Light
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.31-10.57.51:317][896]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2021.01.31-10.57.51:337][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.01.31-10.57.51:337][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.31-10.57.51:337][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.01.31-10.57.51:337][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.01.31-10.57.51:338][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.51:355][896]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
+[2021.01.31-10.57.51:422][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.31-10.57.51:429][896]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-10.57.51:966][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.01.31-10.57.51:966][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.01.31-10.57.51:966][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.01.31-10.57.51:966][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.01.31-10.57.52:497][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.31-10.57.52:561][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.31-10.57.52:565][896]TextureStreamingBuild: Display: Compiling optional shaders took 1.142 seconds.
+[2021.01.31-10.57.52:627][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.31-10.57.52:671][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.53:106][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.31-10.57.53:435][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.01.31-10.57.53:925][896]LogSlate: Window 'Message' being destroyed
+[2021.01.31-10.57.53:931][896]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Black.Black
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.31-10.57.54:452][896]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2021.01.31-10.57.54:476][896]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.57.54:485][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.31-10.57.54:485][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.31-10.57.54:485][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.31-10.57.54:485][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.31-10.57.54:494][896]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2021.01.31-10.57.54:593][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.31-10.57.54:600][896]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.31-10.57.55:139][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2021.01.31-10.57.55:139][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2021.01.31-10.57.55:139][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.31-10.57.55:139][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.01.31-10.57.55:670][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2021.01.31-10.57.55:670][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.01.31-10.57.55:670][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.01.31-10.57.55:670][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.01.31-10.57.56:077][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2021.01.31-10.57.56:077][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.01.31-10.57.56:077][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.31-10.57.56:077][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.31-10.57.56:077][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.01.31-10.57.56:081][896]TextureStreamingBuild: Display: Compiling optional shaders took 1.487 seconds.
+[2021.01.31-10.57.56:138][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.31-10.57.56:195][896]LogSlate: Window 'Black' being destroyed
+[2021.01.31-10.57.56:198][896]LogSlate: Window 'Black' being destroyed
+[2021.01.31-10.57.56:223][896]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.56:223][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.56:649][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-10.57.56:649][896]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.56:649][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.57:103][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-10.57.57:103][896]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.57:103][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.57:397][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.01.31-10.57.57:553][896]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.57:553][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.57:647][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.01.31-10.57.57:647][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-10.57.57:647][896]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.57:647][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.57:940][896]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.57:940][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.57:959][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.31-10.57.58:026][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-10.57.58:026][896]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.58:026][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.58:144][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.31-10.57.58:200][896]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.58:201][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.58:450][896]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-10.57.58:450][896]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.58:450][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.57.58:580][896]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-10.57.58:580][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-10.58.03:722][491]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.58.03:969][519]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.58.04:588][587]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.58.06:625][797]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.01.31-10.58.06:642][797]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.58.06:678][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ButtonMaterial" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Assets/ButtonMaterial.uasset" SILENT=true
+[2021.01.31-10.58.06:689][797]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/ButtonMaterialAB5311D1483C78F605DFFFA6CCF0869D.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Assets/ButtonMaterial.uasset'
+[2021.01.31-10.58.06:699][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Light" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Light.uasset" SILENT=true
+[2021.01.31-10.58.06:709][797]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/LightFF2A938C4B8790162DA9AE98FFB0FF55.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Light.uasset'
+[2021.01.31-10.58.06:718][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Black" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Black.uasset" SILENT=true
+[2021.01.31-10.58.06:728][797]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/BlackDF80D42A4162359A90CA7E8668A6265D.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Black.uasset'
+[2021.01.31-10.58.06:745][797]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Blueprints/Light.Light
+[2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Assets/ButtonMaterial.ButtonMaterial
+[2021.01.31-10.58.06:745][797]LogContentValidation: Display: Validating Material /Game/Black.Black
