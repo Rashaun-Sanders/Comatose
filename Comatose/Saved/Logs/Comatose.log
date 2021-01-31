@@ -10552,3 +10552,35 @@ ButtonDoor_BP_C.ReceiveBeginPlay
 [2021.01.31-08.23.14:457][817]MapCheck: Warning: Boy_NormalClothes__2 Skeletal mesh actor has NULL SkeletalMesh property 
 [2021.01.31-08.23.14:457][817]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.6ms to complete.
 [2021.01.31-08.23.14:460][817]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-08.24.19:168][559]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-08.24.20:442][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.01.31-08.24.20:452][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-08.24.20:469][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Map" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-08.24.20:505][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.31-08.24.20:551][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Test_MapCF28C3A14FDDED8BA76B559190D2F720.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map.umap'
+[2021.01.31-08.24.20:565][651]LogFileHelpers: Saving map 'Test_Map' took 0.096
+[2021.01.31-08.24.20:565][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Map_BuiltData" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-08.24.20:744][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Test_Map_BuiltDataF4D2B6D3475CC75A92EFCCA868FA8F05.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map_BuiltData.uasset'
+[2021.01.31-08.24.20:745][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Map_BuiltData" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map_BuiltData.uasset" SILENT=true
+[2021.01.31-08.24.20:920][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Test_Map_BuiltData2143CC6D4136FCAB6C7480BF8601F0CB.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Maps/Test_Map_BuiltData.uasset'
+[2021.01.31-08.24.20:930][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Boy_BP" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Boy_BP.uasset" SILENT=true
+[2021.01.31-08.24.20:968][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Boy_BPBABE21494504FF2DE6D57EADDBE2067C.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Boy_BP.uasset'
+[2021.01.31-08.24.20:969][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_DefaultContent/Geometry/Meshes/ForDoor" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/_DefaultContent/Geometry/Meshes/ForDoor.uasset" SILENT=true
+[2021.01.31-08.24.20:974][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/ForDoor4DC837DE45A7532C3E746D86DE078618.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/_DefaultContent/Geometry/Meshes/ForDoor.uasset'
+[2021.01.31-08.24.20:984][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ButtonMaterial" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Assets/ButtonMaterial.uasset" SILENT=true
+[2021.01.31-08.24.20:996][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/ButtonMaterialAC42E060401697A9FF6D5D8FFF1C8516.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Assets/ButtonMaterial.uasset'
+[2021.01.31-08.24.21:005][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightBallThing" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/LightBallThing.uasset" SILENT=true
+[2021.01.31-08.24.21:016][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/LightBallThing8B8EF3BD4FEEE93D140024ADCA511C72.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/LightBallThing.uasset'
+[2021.01.31-08.24.21:026][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Light" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Light.uasset" SILENT=true
+[2021.01.31-08.24.21:035][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/Light8A92D83D45DA3E49E07D379310BB3883.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/Light.uasset'
+[2021.01.31-08.24.21:036][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DeathBox" FILE="../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/DeathBox.uasset" SILENT=true
+[2021.01.31-08.24.21:048][651]LogSavePackage: Moving '../../../../../GGJ2021/Comatose/Comatose/Comatose/Saved/DeathBoxD161CAB548EA2614A5B3D39893B60310.tmp' to '../../../../../GGJ2021/Comatose/Comatose/Comatose/Content/Blueprints/DeathBox.uasset'
+[2021.01.31-08.24.21:067][651]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-08.24.21:067][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Boy_BP.Boy_BP
+[2021.01.31-08.24.21:067][651]LogContentValidation: Display: Validating World /Game/Maps/Test_Map.Test_Map
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Test_Map_BuiltData.Test_Map_BuiltData
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating StaticMesh /Game/_DefaultContent/Geometry/Meshes/ForDoor.ForDoor
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DeathBox.DeathBox
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating Material /Game/Blueprints/Light.Light
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/LightBallThing.LightBallThing
+[2021.01.31-08.24.21:068][651]LogContentValidation: Display: Validating Material /Game/Assets/ButtonMaterial.ButtonMaterial
