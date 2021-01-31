@@ -14689,3 +14689,16 @@ ButtonDoor_BP_C.ReceiveBeginPlay
 [2021.01.31-10.49.03:379][452]LogContentValidation: Display: Validating Material /Game/Black.Black
 [2021.01.31-10.49.03:380][452]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level2_BuiltData.Level2_BuiltData
 [2021.01.31-10.49.04:221][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.52.21:309][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.52.22:595][593]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.52.25:545][773]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.52.36:247][844]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-10.52.37:071][844]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2021.01.31-10.52.37:071][844]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project=F:/GGJ2021/Comatose/Comatose/Comatose/ -install=F:/Comatose.zip
+[2021.01.31-10.52.38:444][850]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2021.01.31-10.52.38:444][850]UATHelper: Zip Project Task (Windows): Project directory: F:\GGJ2021\Comatose\Comatose\Comatose
+[2021.01.31-10.52.38:444][850]UATHelper: Zip Project Task (Windows): Install directory: F:/Comatose.zip
+[2021.01.31-10.52.38:444][850]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2021.01.31-10.52.51:260][888]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
